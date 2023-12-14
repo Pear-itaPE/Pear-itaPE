@@ -1,4 +1,4 @@
-#  Welcome :pear: 👨‍💻: 
+#  Welcome :pear: 👨‍💻
 
 ¡Hola! Soy Cesar, un apasionado analista de datos independiente con experiencia en convertir datos en insights accionables.
 
