@@ -1,6 +1,5 @@
-#  Welcome :pear: 👨‍💻
+#  Welcome :pear: 👨‍💻 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/cesar-juarez-444a03166/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="30"/>](https://www.instagram.com/cesarjuarezda/)
 
-¡Hola! Soy Cesar, un apasionado analista de datos independiente con experiencia en convertir datos en insights accionables.
-
+¡Hola! Soy Cesar, un apasionado analista de datos independiente con experiencia en convertir datos en insights accionables. <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 ## 🌐 Socials:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/cesar-juarez-444a03166/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="30"/>](https://www.instagram.com/cesarjuarezda/)
