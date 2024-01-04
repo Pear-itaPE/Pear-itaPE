@@ -13,7 +13,7 @@ Soy un apasionado Analista de Datos con experiencia en convertir datos en insigh
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 
-Puedes conocer más sobre mis proyectos [aquí](https://github.com/Pear-itaPE/Pear-itaPE#proyectos).
+Puedes conocer más sobre mis proyectos <i class="fa-regular fa-paper-plane"></i> [aquí](https://www.novypro.com/profile_projects/cesarcastro-ju%C3%A1rez).
 
 ## Proyectos Destacados
 
