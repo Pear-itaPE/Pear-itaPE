@@ -40,6 +40,8 @@ Puedes conocer más sobre mis proyectos [aquí](https://github.com/Pear-itaPE/Pe
 
 ## Proyectos Destacados
 
-![Paneles](https://github.com/Pear-itaPE/Pear-itaPE/blob/main/PORTADA.png)
+<div align="center">
+  <img src="https://github.com/Pear-itaPE/Pear-itaPE/blob/main/PORTADA.png" alt="Paneles" style="width:100%;">
+</div>
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/cesar-juarez-444a03166/).
