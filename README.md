@@ -16,6 +16,8 @@ Soy un apasionado Analista de Datos con experiencia en convertir datos en insigh
 Puedes conocer más sobre mis proyectos [Icono de Freepik](https://www.freepik.es/autor/freepik/iconos/basic-rounded-flat_6?t=f#from_element=families_block)
   [aquí] (https://www.novypro.com/profile_projects/cesarcastro-ju%C3%A1rez).
 
+Puedes conocer más sobre mis proyectos [Icono de Freepik](https://www.freepik.es/autor/freepik/iconos/basic-rounded-flat_6?t=f#from_element=families_block) [aquí](https://www.novypro.com/profile_projects/cesarcastro-ju%C3%A1rez).
+
 ## Proyectos Destacados
 
 <div align="center">
