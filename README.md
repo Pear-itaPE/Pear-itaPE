@@ -16,3 +16,5 @@ Soy un apasionado Analista de Datos independiente con experiencia en convertir d
 
 
 Puedes Conocer màs sobre mis proyectos aquí 👇
+
+< img  src = " https://github.com/Pear-itaPE/Pear-itaPE/blob/main/PORTADA.png "  alt = " Paneles " >
