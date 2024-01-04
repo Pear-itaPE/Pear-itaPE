@@ -1,6 +1,6 @@
 # ¡Hola, soy Cesar! 👨‍💻
 
-[![Data Analyst](https://github.com/Pear-itaPE/Pear-itaPE/blob/main/gif.gif)
+[![Data Analyst](https://github.com/Pear-itaPE/Pear-itaPE/blob/main/GIF.gif)
 
 Soy un apasionado Analista de Datos con experiencia en convertir datos en insights accionables. Mis estudios profesionales son en Ingeniería Industrial y mi experiencia se centra en la automatización de procesos, gestión de proyectos, gestión logística, control de operaciones. Actualmente, con foco en soluciones analíticas basadas en datos.
 
