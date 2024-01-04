@@ -25,4 +25,4 @@ Puedes utilizar mis Dashboards aquí  [🚀](https://www.novypro.com/profile_pro
   <img src="https://github.com/Pear-itaPE/Pear-itaPE/blob/main/PORTADA.png" alt="Paneles" style="width:100%;">
 </div>
 
-¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/cesar-juarez-444a03166/).
+¡Gracias por visitar mi perfil 🌟 ! Siéntete libre de explorar mis proyectos y conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/cesar-juarez-444a03166/).
