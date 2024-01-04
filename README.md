@@ -15,7 +15,7 @@ Soy un apasionado Analista de Datos con experiencia en convertir datos en insigh
 
 Puedes conocer más sobre mis proyectos 👉 [aquí](https://www.novypro.com/profile_projects/cesarcastro-ju%C3%A1rez).
 
-## Proyectos Destacados
+## Proyectos Destacados 📊
 
 <div align="center">
   <img src="https://github.com/Pear-itaPE/Pear-itaPE/blob/main/PORTADA.png" alt="Paneles" style="width:100%;">
