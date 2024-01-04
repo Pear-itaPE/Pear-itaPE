@@ -3,6 +3,8 @@
 Soy un apasionado Analista de Datos independiente con experiencia en convertir datos en insights accionables. Mi experiencia se centra en la automatización de procesos, gestión de proyectos, gestión logística, control de operaciones y el manejo de datos. 
 
 #### < p  align = " left " >🛠️ Habilidades y herramientas </ p >
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ![ PowerBI ] ( https://img.shields.io/badge/-PowerBI-%23E44D27?style=flat-square&logo=powerbi&logoColor=ffffff )
 ![ Python ] ( https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=Python&logoColor=ffffff )
