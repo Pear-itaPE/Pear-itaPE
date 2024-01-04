@@ -13,10 +13,9 @@ Soy un apasionado Analista de Datos con experiencia en convertir datos en insigh
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 
-Puedes conocer más sobre mis proyectos [Icono de Freepik](https://www.freepik.es/autor/freepik/iconos/basic-rounded-flat_6?t=f#from_element=families_block)
-  [aquí] (https://www.novypro.com/profile_projects/cesarcastro-ju%C3%A1rez).
+Puedes conocer más sobre mis proyectos 👉 [aquí] (https://www.novypro.com/profile_projects/cesarcastro-ju%C3%A1rez).
 
-Puedes conocer más sobre mis proyectos [Icono de Freepik](https://www.freepik.es/autor/freepik/iconos/basic-rounded-flat_6?t=f#from_element=families_block) [aquí](https://www.novypro.com/profile_projects/cesarcastro-ju%C3%A1rez).
+
 
 ## Proyectos Destacados
 
