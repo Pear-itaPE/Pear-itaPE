@@ -4,7 +4,7 @@
 
 Soy un apasionado Analista de Datos con experiencia en convertir datos en insights accionables. Mis estudios profesionales son en Ingeniería Industrial y mi experiencia se centra en la automatización de procesos, gestión de proyectos, gestión logística, control de operaciones. Actualmente, con foco en soluciones analíticas basadas en datos.
 
-## 📟🪛 Tecnologías y Herramientas que Domino
+## 📟 Tecnologías y Herramientas que Domino
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/sql-server)
