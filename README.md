@@ -2,11 +2,7 @@
 <img src="https://raw.githubusercontent.com/Pear-itaPE/Pear-itaPE/main/Captura%20de%20pantalla%202023-12-13%20212510.png" alt="Data Analyst">
 Soy un apasionado Analista de Datos con experiencia en convertir datos en insights accionables. Mis estudios profesionales son en Ingeniería Industrial y mi experiencia se centra en la automatización de procesos, gestión de proyectos, gestión logística, control de operaciones. Actualmente, con foco en soluciones analíticas basadas en datos.
 
-
-
-
-🛠️ Habilidades y herramientas 
-
+ ##🛠️ Habilidades y herramientas 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
