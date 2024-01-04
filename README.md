@@ -19,7 +19,8 @@ Soy un apasionado Analista de Datos con experiencia en convertir datos en insigh
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarcastrojuarez5@gmail.com)
 
 ## Proyectos Destacados 📊
-Puedes utilizar mis Dashboards aquí  [🚀](https://www.novypro.com/profile_projects/cesarcastro-ju%C3%A1rez).
+Puedes utilizar mis Dashboards [aquí ](https://www.novypro.com/profile_projects/cesarcastro-ju%C3%A1rez) [aquí](https://www.novypro.com/profile_projects/cesarcastro-ju%C3%A1rez).🚀
+
 
 <div align="center">
   <img src="https://github.com/Pear-itaPE/Pear-itaPE/blob/main/PORTADA.png" alt="Paneles" style="width:100%;">
