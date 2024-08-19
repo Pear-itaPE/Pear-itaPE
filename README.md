@@ -28,8 +28,8 @@ Puedes utilizar mis Dashboards [aquí ](https://www.novypro.com/profile_projects
 
 ¡Gracias por visitar mi perfil 🌟 ! Siéntete libre de explorar mis proyectos y conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/cesar-juarez-444a03166/).
 
-![Pear-itaPE's Stats](https://github-readme-stats.vercel.app/api?username=Pear-itaPE&theme=default&show_icons=true&hide_border=false&count_private=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pear-itaPE&theme=default&show_icons=true&hide_border=false&layout=compact" alt="Pear-itaPE" /></p>
 
-![Pear-itaPE's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pear-itaPE&theme=default&hide_border=false)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pear-itaPE&theme=default&show_icons=true&hide_border=false&count_private=true" alt="Pear-itaPE" /></p>
 
-![Pear-itaPE's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pear-itaPE&theme=default&show_icons=true&hide_border=false&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pear-itaPE&theme=default&hide_border=false" alt="Pear-itaPE" /></p>
