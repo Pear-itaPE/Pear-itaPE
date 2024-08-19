@@ -28,11 +28,8 @@ Puedes utilizar mis Dashboards [aquí ](https://www.novypro.com/profile_projects
 
 ¡Gracias por visitar mi perfil 🌟 ! Siéntete libre de explorar mis proyectos y conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/cesar-juarez-444a03166/).
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pear-itaPE&theme=default&show_icons=true&hide_border=false&layout=compact" alt="Pear-itaPE" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pear-itaPE&theme=default&show_icons=true&hide_border=false&count_private=true" alt="Pear-itaPE" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pear-itaPE&theme=default&hide_border=false" alt="Pear-itaPE" />
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pear-itaPE&theme=default&show_icons=true&hide_border=false&layout=compact" alt="Pear-itaPE" style="width: 32%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pear-itaPE&theme=default&show_icons=true&hide_border=false&count_private=true" alt="Pear-itaPE" style="width: 32%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pear-itaPE&theme=default&hide_border=false" alt="Pear-itaPE" style="width: 32%;" />
 </div>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pear-itaPE&theme=default&hide_border=false" alt="Pear-itaPE" /></p>
